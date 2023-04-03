@@ -12,7 +12,7 @@ client = commands.Bot(
 
 @client.event
 async def on_connect():
-  await client.change_presence(activity = discord.Streaming(name = " HamsShop ┊ Store Lengkap & Termurah ┊ 24/7 Online ┊ https://dsc.gg/hamsshop ", url = "link twicth"))
+  await client.change_presence(activity = discord.Streaming(name = " ON 24/7 ┊ AFK ┊ SLOW RESSPON ┊ TURU , url = "https://twitch.tv/renzz"))
 
 
 keep_alive.keep_alive()
